@@ -1,0 +1,1 @@
+# Dieses Repository ist Teil des Auftrags 2_LA_245_1706_Prototyp_umsetzen im Modul 245
