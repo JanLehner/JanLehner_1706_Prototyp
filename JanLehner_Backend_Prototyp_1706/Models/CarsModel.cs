@@ -24,7 +24,7 @@ namespace JanLehner_Backend_Prototyp_1706.Models
                     }
                     else
                     {
-                        return "Schranke geschlossen halten | Nummer bereits parkiert";
+                        return "Schranke geschlossen halten";
                     }
                 }
             }
